@@ -2,6 +2,7 @@
 Deberes de Lógica de Programación
 
 Nombre: Andres Alejandro Montesdeoca Cruz
+
 Fecha 29/08/2024
 
 # Evaluacion Contacto con el docente
@@ -18,6 +19,7 @@ El programa fue diseñado en base a las reglas anteriormente mencionadas añadie
 import random
 # Mensaje de Bienvenida del juego
 print ("Bienvenido al juego de Piedra, Papel o Tijera")
+
 En estas sentencias tenemos la sentencia import random que nos sirve para importar la libreria random que la usaremos para generar un numero al azar, y mandamos a imprimir un mensaje de Bienvenida al juego
 
 # Ingreso de nombre y eleccion del jugador
